@@ -20,6 +20,8 @@ repository:
 This folder is tracked with Git. Commits record every change, so any
 mistake can be inspected and undone.
 
+This line was written on the `experiment` branch.
+
 ## About
 
 Created while working through the OpenCode School lessons.
