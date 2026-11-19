@@ -15,6 +15,11 @@ repository:
 
     ~/.config/opencode/replicate-token.txt
 
+## Version control
+
+This folder is tracked with Git. Commits record every change, so any
+mistake can be inspected and undone.
+
 ## About
 
 Created while working through the OpenCode School lessons.
